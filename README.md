@@ -1,6 +1,6 @@
-![Project Sloth GitHub Banner](https://user-images.githubusercontent.com/91661118/168956591-43462c40-e7c2-41af-8282-b2d9b6716771.png)
+![EF_DEVELOPMENT](https://github.com/user-attachments/assets/6c78ce3d-ebce-41cd-8b9e-51e114a2a69e)
 
-### Project Sloth
+### EF_DEVELOPMENT
 Passionate developers and designers with a primary focus on providing quality resources. Our resources are open source and entirely free for all of the FiveM community to enjoy and use.
 
 <br>
